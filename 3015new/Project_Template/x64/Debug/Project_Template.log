@@ -1,0 +1,10 @@
+﻿  main.cpp
+  scenebasic_uniform.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(130,9): warning C4005: “APIENTRY”: 宏重定义
+  (编译源文件“scenebasic_uniform.cpp”)
+      C:\Users\56229\Desktop\3015第二版\include\glad\glad.h(32,9):
+      参见“APIENTRY”的前一个定义
+  
+C:\Users\56229\Desktop\3015第二版\scenebasic_uniform.cpp(303,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+  Project_Template.vcxproj -> C:\Users\56229\Desktop\3015第二版\x64\Debug\Project_Template.exe
